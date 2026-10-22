@@ -1,5 +1,6 @@
 沐琰鸢的个人ai辅助项目
 面向 Android 的多功能工具箱：内置Agent、可用的终端环境（Bash + BusyBox）、以及基于WebView的插件体系，并借助Shizuku与无障碍服务完成跨应用自动化。旨在辅助android端的agent与自动化。
+尚未完成请勿打包。
 
 以下为ai辅助
 ## 功能
