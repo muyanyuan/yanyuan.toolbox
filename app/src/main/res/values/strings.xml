@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">琰鸢工具箱</string>
+    <string name="accessibility_label">琰鸢工具箱</string>
+    <string name="accessibility_description">
+        为已启用无障碍自动化能力的插件提供界面节点与本机操作能力。屏幕内容可能由插件处理，请仅启用可信插件。
+    </string>
+</resources>

@@ -1,0 +1,32 @@
+# ---- 构建产物 / 缓存（可重新生成）----
+/build
+/app/build
+/app/.cxx
+/.gradle
+/.cache
+/out
+/captures
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# ---- 本地配置 / IDE ----
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# ---- 签名与密钥（绝不提交）----
+*.jks
+*.keystore
+*.p12
+*.pem
+
+# ---- 遗留 / 临时 ----
+*.bak
+*.orig
+NUL

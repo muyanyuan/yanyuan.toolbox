@@ -1,0 +1,4 @@
+# Toolbox Runtime foundation sources. Hashes must be filled and verified before release.
+# Format: component|version|url|sha256|license|source-notes
+bash|5.3|https://mirrors.kernel.org/gnu/bash/bash-5.3.tar.gz|0d5cd86965f869a26cf64f4b71be7b96f90a3ba8b3d74e27e8e9d9d5550f31ba|GPL-3.0-or-later|GNU release tarball; fetched over HTTPS and SHA-256 pinned locally
+busybox|1.37.0|https://busybox.net/downloads/busybox-1.37.0.tar.bz2|3311dff32e746499f4df0d5df04d7eb396382d7e108bb9250e7b519b837043a4|GPL-2.0-only|BusyBox upstream SHA-256 sidecar

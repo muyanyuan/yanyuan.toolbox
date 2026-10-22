@@ -1,0 +1,12 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.sh text eol=lf
+gradlew text eol=lf
+*.png binary
+*.webp binary
+*.gif binary
+*.mp3 binary
+*.zip binary
+*.jar binary
+*.jks binary

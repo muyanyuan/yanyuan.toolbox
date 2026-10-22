@@ -1,0 +1,6 @@
+# Toolchain inputs for reproducible Toolbox Runtime builds.
+# The build script rejects mismatches instead of silently using another NDK.
+ndk_revision=28.2.13676358
+android_api=24
+abis=arm64-v8a,armeabi-v7a,x86_64
+build_host=linux-x86_64
