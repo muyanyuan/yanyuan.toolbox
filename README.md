@@ -1,0 +1,2 @@
+个人ai辅助项目
+旨在辅助android端的agent与自动化
